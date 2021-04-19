@@ -1,0 +1,5 @@
+[
+  {"_id": "111", "score": 30, "quiz": "123", "answers": []},
+  {"_id": "222", "score": 66, "quiz": "234",  "answers": []},
+  {"_id": "333", "score": 78, "quiz": "345",  "answers": []}
+]
